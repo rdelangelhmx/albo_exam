@@ -1,0 +1,29 @@
+{
+  "name": "albo_exam",
+  "version": "1.0.0",
+  "description": "Prueba Developer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdelangelhmx/albo_exam.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Exam"
+  ],
+  "author": "Rodrigo Del Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdelangelhmx/albo_exam/issues"
+  },
+  "homepage": "https://github.com/rdelangelhmx/albo_exam#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "request": "^2.88.2"
+  }
+}
